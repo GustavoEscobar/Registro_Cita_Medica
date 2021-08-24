@@ -1,0 +1,9 @@
+D:\Prueba AFP\CitaMedica\CitaMedica.BL\bin\Debug\CitaMedica.BL.dll
+D:\Prueba AFP\CitaMedica\CitaMedica.BL\bin\Debug\CitaMedica.BL.pdb
+D:\Prueba AFP\CitaMedica\CitaMedica.BL\bin\Debug\CitaMedica.DAL.dll
+D:\Prueba AFP\CitaMedica\CitaMedica.BL\bin\Debug\CitaMedica.EN.dll
+D:\Prueba AFP\CitaMedica\CitaMedica.BL\bin\Debug\CitaMedica.DAL.pdb
+D:\Prueba AFP\CitaMedica\CitaMedica.BL\bin\Debug\CitaMedica.EN.pdb
+D:\Prueba AFP\CitaMedica\CitaMedica.BL\obj\Debug\CitaMedica.BL.csprojResolveAssemblyReference.cache
+D:\Prueba AFP\CitaMedica\CitaMedica.BL\obj\Debug\CitaMedica.BL.dll
+D:\Prueba AFP\CitaMedica\CitaMedica.BL\obj\Debug\CitaMedica.BL.pdb

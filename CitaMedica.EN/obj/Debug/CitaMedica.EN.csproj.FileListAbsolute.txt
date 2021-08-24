@@ -1,0 +1,4 @@
+D:\Prueba AFP\CitaMedica\CitaMedica.EN\bin\Debug\CitaMedica.EN.dll
+D:\Prueba AFP\CitaMedica\CitaMedica.EN\bin\Debug\CitaMedica.EN.pdb
+D:\Prueba AFP\CitaMedica\CitaMedica.EN\obj\Debug\CitaMedica.EN.dll
+D:\Prueba AFP\CitaMedica\CitaMedica.EN\obj\Debug\CitaMedica.EN.pdb
